@@ -12,82 +12,128 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Nadila =====
-[1]Nadila      |10:28:02 | 19-10-2026| login OK @nadilarasati | score=1440 rank=4793
-[1]Nadila      |10:28:02 | 19-10-2026| serverTime=2026-10-19T10:28:02.000Z local=2026-10-19T10:28:02.596Z
+[1]Nadila      |09:46:40 | 20-10-2026| login OK @nadilarasati | score=1530 rank=4587
+[1]Nadila      |09:46:40 | 20-10-2026| serverTime=2026-10-20T09:46:40.000Z local=2026-10-20T09:46:40.669Z
 --> [1]Nadila menjalankan: Claim Daily
-[1]Nadila      |10:28:03 | 19-10-2026| daily: OK +10 poin score=1450
---> [1]Nadila menjalankan: Auto All Tasks (8 pending)
-[1]Nadila      |10:28:07 | 19-10-2026| [1/8] 27d69bc4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/nadilarasati/status/2112128159585774047
-[1]Nadila      |10:28:07 | 19-10-2026| delay 10s...
-[1]Nadila      |10:28:21 | 19-10-2026| [2/8] 29d2bf65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/nadilarasati/status/2112128207375600917
-[1]Nadila      |10:28:21 | 19-10-2026| delay 10s...
-[1]Nadila      |10:28:35 | 19-10-2026| [3/8] 1cc2da8d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/nadilarasati/status/2112128286161240495
-[1]Nadila      |10:28:35 | 19-10-2026| delay 10s...
-[1]Nadila      |10:28:47 | 19-10-2026| [4/8] e792000f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/nadilarasati/status/2112128442481275372
-[1]Nadila      |10:28:47 | 19-10-2026| delay 10s...
-[1]Nadila      |10:29:01 | 19-10-2026| [5/8] 5830cfb5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/nadilarasati/status/2112128239493729139
-[1]Nadila      |10:29:01 | 19-10-2026| delay 10s...
-[1]Nadila      |10:29:15 | 19-10-2026| [6/8] 75d20c29 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/nadilarasati/status/2112128641840514966
-[1]Nadila      |10:29:15 | 19-10-2026| delay 10s...
-[1]Nadila      |10:29:27 | 19-10-2026| [7/8] c4a0bafb (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/nadilarasati/status/2112128684407720761
-[1]Nadila      |10:29:27 | 19-10-2026| delay 10s...
-[1]Nadila      |10:29:41 | 19-10-2026| [8/8] c821602a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/nadilarasati/status/2112128405208776896
-[1]Nadila      |10:29:41 | 19-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Nadila      |10:29:44 | 19-10-2026| [1/1] 27d69bc4 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112092800401699 | proof=https://x.com/nadilarasati/status/2112128617857540588
+[1]Nadila      |09:46:42 | 20-10-2026| daily: OK +10 poin score=1540
+--> [1]Nadila menjalankan: Auto All Tasks (6 pending)
+[1]Nadila      |09:46:44 | 20-10-2026| [1/6] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/nadilarasati/status/2112480137584970591
+[1]Nadila      |09:46:44 | 20-10-2026| delay 10s...
+[1]Nadila      |09:46:56 | 20-10-2026| [2/6] 6e765bbf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/nadilarasati/status/2112480221691944629
+[1]Nadila      |09:46:56 | 20-10-2026| delay 10s...
+[1]Nadila      |09:47:08 | 20-10-2026| [3/6] ecdd3dc8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/nadilarasati/status/2112480289667507301
+[1]Nadila      |09:47:08 | 20-10-2026| delay 10s...
+[1]Nadila      |09:47:21 | 20-10-2026| [4/6] f533191c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/nadilarasati/status/2112480426105904383
+[1]Nadila      |09:47:21 | 20-10-2026| delay 10s...
+[1]Nadila      |09:47:33 | 20-10-2026| [5/6] 8ff68dcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/nadilarasati/status/2112480271656260159
+[1]Nadila      |09:47:33 | 20-10-2026| delay 10s...
+[1]Nadila      |09:47:45 | 20-10-2026| [6/6] 57f13195 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/nadilarasati/status/2112480395657519688
+[1]Nadila      |09:47:45 | 20-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Nadila      |09:47:47 | 20-10-2026| [1/1] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112200949674791 | proof=https://x.com/nadilarasati/status/2112480337747862059
 --> [1]Nadila menjalankan: Watch Anime
-[1]Nadila      |10:29:46 | 19-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Nadila      |10:29:46 | 19-10-2026| watch [1/4] farming oshi-captains-hat...
-  video baru dikenal: oshi-captains-hat (katalog +5)
-[1]Nadila      |10:29:48 | 19-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Nadila      |10:29:53 | 19-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Nadila      |10:29:54 | 19-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Nadila      |10:29:59 | 19-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Nadila      |10:30:01 | 19-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
-[1]Nadila      |10:30:06 | 19-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Nadila      |10:30:08 | 19-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
+[1]Nadila      |09:47:48 | 20-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Nadila      |09:47:48 | 20-10-2026| watch [1/4] farming oshi-captains-hat...
+[1]Nadila      |09:47:50 | 20-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
+[1]Nadila      |09:47:57 | 20-10-2026| watch oshi-captains-hat: 5% (5.29/92.00s)
+[1]Nadila      |09:48:03 | 20-10-2026| watch oshi-captains-hat: 12% (11.40/92.00s)
+[1]Nadila      |09:48:09 | 20-10-2026| watch oshi-captains-hat: 18% (17.01/92.00s)
+[1]Nadila      |09:48:16 | 20-10-2026| watch oshi-captains-hat: 24% (22.79/92.00s)
+[1]Nadila      |09:48:22 | 20-10-2026| watch oshi-captains-hat: 31% (28.94/92.00s)
+[1]Nadila      |09:48:29 | 20-10-2026| watch oshi-captains-hat: 37% (34.58/92.00s)
+[1]Nadila      |09:48:35 | 20-10-2026| watch oshi-captains-hat: 43% (40.13/92.00s)
+[1]Nadila      |09:48:42 | 20-10-2026| watch oshi-captains-hat: 49% (45.76/92.00s)
+[1]Nadila      |09:48:48 | 20-10-2026| watch oshi-captains-hat: 56% (52.07/92.00s)
+[1]Nadila      |09:48:55 | 20-10-2026| watch oshi-captains-hat: 62% (57.82/92.00s)
+[1]Nadila      |09:49:01 | 20-10-2026| watch oshi-captains-hat: 69% (63.62/92.00s)
+[1]Nadila      |09:49:07 | 20-10-2026| watch oshi-captains-hat: 75% (69.22/92.00s)
+[1]Nadila      |09:49:14 | 20-10-2026| watch oshi-captains-hat: 81% (75.07/92.00s)
+[1]Nadila      |09:49:20 | 20-10-2026| watch oshi-captains-hat: 88% (81.16/92.00s)
+[1]Nadila      |09:49:27 | 20-10-2026| watch oshi-captains-hat: 94% (86.73/92.00s)
+[1]Nadila      |09:49:27 | 20-10-2026| watch oshi-captains-hat: COMPLETED (86.73/92.00s)
+[1]Nadila      |09:49:32 | 20-10-2026| watch [2/4] farming oshi-rainbow-star...
+[1]Nadila      |09:49:35 | 20-10-2026| watch oshi-rainbow-star: 0% (0.00/86.00s)
+[1]Nadila      |09:49:42 | 20-10-2026| watch oshi-rainbow-star: 6% (5.53/86.00s)
+[1]Nadila      |09:49:48 | 20-10-2026| watch oshi-rainbow-star: 13% (11.40/86.00s)
+[1]Nadila      |09:49:54 | 20-10-2026| watch oshi-rainbow-star: 19% (17.01/86.00s)
+[1]Nadila      |09:50:00 | 20-10-2026| watch oshi-rainbow-star: 26% (22.56/86.00s)
+[1]Nadila      |09:50:07 | 20-10-2026| watch oshi-rainbow-star: 32% (28.28/86.00s)
+[1]Nadila      |09:50:31 | 20-10-2026| watch oshi-rainbow-star: heartbeat GAGAL http=503
+[1]Nadila      |09:50:36 | 20-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
+[1]Nadila      |09:50:38 | 20-10-2026| watch oshi-rainbow-lighthouse: 0% (0.00/87.00s)
+[1]Nadila      |09:50:45 | 20-10-2026| watch oshi-rainbow-lighthouse: 6% (5.30/87.00s)
+[1]Nadila      |09:50:51 | 20-10-2026| watch oshi-rainbow-lighthouse: 12% (10.88/87.00s)
+[1]Nadila      |09:51:00 | 20-10-2026| watch oshi-rainbow-lighthouse: 19% (16.55/87.00s)
+[1]Nadila      |09:51:06 | 20-10-2026| watch oshi-rainbow-lighthouse: 26% (22.80/87.00s)
+[1]Nadila      |09:51:13 | 20-10-2026| watch oshi-rainbow-lighthouse: 34% (29.64/87.00s)
+[1]Nadila      |09:51:19 | 20-10-2026| watch oshi-rainbow-lighthouse: 41% (35.92/87.00s)
+[1]Nadila      |09:51:25 | 20-10-2026| watch oshi-rainbow-lighthouse: 48% (41.86/87.00s)
+[1]Nadila      |09:51:32 | 20-10-2026| watch oshi-rainbow-lighthouse: 54% (47.55/87.00s)
+[1]Nadila      |09:51:38 | 20-10-2026| watch oshi-rainbow-lighthouse: 61% (53.52/87.00s)
+[1]Nadila      |09:51:44 | 20-10-2026| watch oshi-rainbow-lighthouse: 67% (59.10/87.00s)
+[1]Nadila      |09:51:51 | 20-10-2026| watch oshi-rainbow-lighthouse: 74% (64.78/87.00s)
+[1]Nadila      |09:51:57 | 20-10-2026| watch oshi-rainbow-lighthouse: 80% (70.34/87.00s)
+[1]Nadila      |09:52:04 | 20-10-2026| watch oshi-rainbow-lighthouse: 87% (76.22/87.00s)
+[1]Nadila      |09:52:11 | 20-10-2026| watch oshi-rainbow-lighthouse: 94% (81.98/87.00s)
+[1]Nadila      |09:52:11 | 20-10-2026| watch oshi-rainbow-lighthouse: COMPLETED (81.98/87.00s)
+[1]Nadila      |09:52:16 | 20-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
+[1]Nadila      |09:52:18 | 20-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
+[1]Nadila      |09:52:24 | 20-10-2026| watch bakeru-ikesou-jan-mv: 2% (5.33/181.00s)
+[1]Nadila      |09:52:31 | 20-10-2026| watch bakeru-ikesou-jan-mv: 6% (10.97/181.00s)
+[1]Nadila      |09:52:37 | 20-10-2026| watch bakeru-ikesou-jan-mv: 9% (16.51/181.00s)
+[1]Nadila      |09:52:43 | 20-10-2026| watch bakeru-ikesou-jan-mv: 12% (22.14/181.00s)
+[1]Nadila      |09:52:49 | 20-10-2026| watch bakeru-ikesou-jan-mv: 15% (27.68/181.00s)
+[1]Nadila      |09:52:55 | 20-10-2026| watch bakeru-ikesou-jan-mv: 18% (33.32/181.00s)
+[1]Nadila      |09:53:03 | 20-10-2026| watch bakeru-ikesou-jan-mv: 21% (38.91/181.00s)
+[1]Nadila      |09:53:09 | 20-10-2026| watch bakeru-ikesou-jan-mv: 25% (45.37/181.00s)
+[1]Nadila      |09:53:15 | 20-10-2026| watch bakeru-ikesou-jan-mv: 28% (51.40/181.00s)
+[1]Nadila      |09:53:22 | 20-10-2026| watch bakeru-ikesou-jan-mv: 31% (56.96/181.00s)
+[1]Nadila      |09:53:29 | 20-10-2026| watch bakeru-ikesou-jan-mv: 34% (62.87/181.00s)
+[1]Nadila      |09:53:35 | 20-10-2026| watch bakeru-ikesou-jan-mv: 37% (68.73/181.00s)
+[1]Nadila      |09:53:41 | 20-10-2026| watch bakeru-ikesou-jan-mv: 41% (74.57/181.00s)
+[1]Nadila      |09:53:48 | 20-10-2026| watch bakeru-ikesou-jan-mv: 44% (80.20/181.00s)
+[1]Nadila      |09:53:55 | 20-10-2026| watch bakeru-ikesou-jan-mv: 47% (85.87/181.00s)
+[1]Nadila      |09:54:01 | 20-10-2026| watch bakeru-ikesou-jan-mv: 50% (92.22/181.00s)
+[1]Nadila      |09:54:08 | 20-10-2026| watch bakeru-ikesou-jan-mv: 54% (97.74/181.00s)
+[1]Nadila      |09:54:14 | 20-10-2026| watch bakeru-ikesou-jan-mv: 57% (103.99/181.00s)
+[1]Nadila      |09:54:20 | 20-10-2026| watch bakeru-ikesou-jan-mv: 60% (109.64/181.00s)
+[1]Nadila      |09:54:27 | 20-10-2026| watch bakeru-ikesou-jan-mv: 63% (115.22/181.00s)
+[1]Nadila      |09:54:33 | 20-10-2026| watch bakeru-ikesou-jan-mv: 66% (121.04/181.00s)
+[1]Nadila      |09:54:39 | 20-10-2026| watch bakeru-ikesou-jan-mv: 70% (126.85/181.00s)
+[1]Nadila      |09:54:45 | 20-10-2026| watch bakeru-ikesou-jan-mv: 73% (132.40/181.00s)
+[1]Nadila      |09:54:52 | 20-10-2026| watch bakeru-ikesou-jan-mv: 76% (137.91/181.00s)
+[1]Nadila      |09:54:58 | 20-10-2026| watch bakeru-ikesou-jan-mv: 79% (143.68/181.00s)
+[1]Nadila      |09:55:05 | 20-10-2026| watch bakeru-ikesou-jan-mv: 82% (149.56/181.00s)
+[1]Nadila      |09:55:11 | 20-10-2026| watch bakeru-ikesou-jan-mv: 85% (155.17/181.00s)
+[1]Nadila      |09:55:16 | 20-10-2026| watch bakeru-ikesou-jan-mv: heartbeat GAGAL http=503
 --> [1]Nadila menjalankan: Read Article
-[1]Nadila      |10:30:11 | 19-10-2026| news: 27/27 artikel selesai dibaca
-[1]Nadila      |10:30:12 | 19-10-2026| mint eligibility: {"userId":"1670849912421126144","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@nadilarasati","status":"submitted","revision":"5c5ebb53-9e9c-4da8-9822-28460cc09
-[1]Nadila      |10:30:12 | 19-10-2026| news: semua artikel sudah dibaca
+[1]Nadila      |09:55:16 | 20-10-2026| news ERROR: news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Nadila menjalankan: Quiz Anime
-[1]Nadila      |10:30:13 | 19-10-2026| quiz ep1: sudah dijawab
-[1]Nadila      |10:30:13 | 19-10-2026| quiz ep2: sudah dijawab
-[1]Nadila      |10:30:13 | 19-10-2026| quiz ep3: sudah dijawab
-[1]Nadila      |10:30:13 | 19-10-2026| quiz ep4: sudah dijawab
-[1]Nadila      |10:30:13 | 19-10-2026| quiz ep5: sudah dijawab
-[1]Nadila      |10:30:13 | 19-10-2026| quiz ep6: sudah dijawab
+[1]Nadila      |09:55:17 | 20-10-2026| quiz ERROR: quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Nadila menjalankan: Music Missions (realtime, bisa lama!)
-[1]Nadila      |10:30:15 | 19-10-2026| music: kedua misi sudah tercapai, stop
-[1]Nadila      |10:30:16 | 19-10-2026| mission music-listens-10: sudah diklaim
-[1]Nadila      |10:30:16 | 19-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nadila      |10:30:16 | 19-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nadila      |09:55:17 | 20-10-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Nadila      |09:55:18 | 20-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Nadila menjalankan: Claim Missions
-[1]Nadila      |10:30:16 | 19-10-2026| mission music-listens-10: sudah diklaim
-[1]Nadila      |10:30:16 | 19-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nadila      |10:30:16 | 19-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nadila      |09:55:18 | 20-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Nadila menjalankan: Check Eligibility
 
 --- eligibility [1]Nadila ---
-  @nadilarasati | score=1440 rank=4793
-  tasks    [##################--] 74/82
-  mission  music-listens-10:      claimed
-  mission  music-minutes-30:      claimed
-  mission  anime-completed-3:     claimed
-  quiz     [####################] 6/6
-  watch    [####################] 18/17
-  music    [####################] 11/11
-  artikel  [####################] 27/27
-  mint: requirementsMet=false mintOpen=false discord=true
+  @nadilarasati | score=1530 rank=4587
+  tasks    [##################--] 73/79
+  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  music: ERROR music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  artikel: ERROR news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 
 --> [1]Nadila menjalankan: Read Manga
-[1]Nadila      |10:30:22 | 19-10-2026| manga: 0/13 chapter belum completed
+[1]Nadila      |09:55:19 | 20-10-2026| manga ERROR: manga-history http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Nadila menjalankan: Get Gift
-[1]Nadila      |10:30:23 | 19-10-2026| gift: 0/4 belum diterima
+[1]Nadila      |09:55:19 | 20-10-2026| gift ERROR: gifts http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Nadila menjalankan: Setup Profile
-[1]Nadila      |10:30:24 | 19-10-2026| profile: bio="https://x.com/nadilarasati" fav=yuki rewardAt=1791684638
-[1]Nadila      |10:30:24 | 19-10-2026| profile: bonus sudah diklaim, skip
+[1]Nadila      |09:55:19 | 20-10-2026| profile ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Nadila menjalankan: Bind Wallet
-[1]Nadila      |10:30:24 | 19-10-2026| wallet: sudah terikat BV9iChmR63... (solana)
+[1]Nadila      |09:55:19 | 20-10-2026| wallet ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 
 == RINGKASAN ==
-- Nadila: daily=claimed | tasks OK 9/9 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Nadila: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 2/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/0 completed | gift 0/0 diterima | profile - | wallet -
